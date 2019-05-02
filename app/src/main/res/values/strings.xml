@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Puasa Sunnah</string>
+
+    <string-array name="puasa">
+        <item>Senin kamis</item>
+        <item>Daud</item>
+        <item>Arofah</item>
+        <item>Asy Syuro</item>
+        <item>Puasa di bulan Sya\'ban</item>
+        <item>Puasa 6 hari dibulan Syawal</item>
+        <item>Ayyamul bidh</item>
+    </string-array>
+</resources>
